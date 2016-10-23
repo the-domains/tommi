@@ -26,7 +26,4 @@ name: Tommi
 title: Wahlkampftagebuch
 content: []
 description: ''
-purpose:
-  - type: contact
-    url: 'mailto:tommi.enenkel@gmail.com'
-    label: Schreib mir
+purpose: []
