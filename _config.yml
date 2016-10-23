@@ -1,22 +1,22 @@
-typography_spectrum: 0.4111566131615476
-content_rating:
-  adult: false
+layout_spectrum: 0.5142039905536441
+typography_spectrum: 0.5317083039378175
 color:
   brandColors:
-    - '#332532'
-    - '#644D52'
-    - '#F77A52'
-    - '#FF974F'
-    - '#A49A87'
-  brandStrength: 0.11218917588048642
-  lightness: 0.4584516225811463
-  saturation: 0.6588492038147985
-  rhythmicContrast: 0.826897581416173
+    - '#FFFFFF'
+    - '#000000'
+    - '#FDF400'
+    - '#BE0064'
+    - '#919191'
+  brandStrength: 0.8881177195603268
+  lightness: 0.7749961326012185
+  saturation: 0.2912613010620422
+  rhythmicContrast: 0.740844269854911
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.5280501324852173
 author:
   name: Tommi Enenkel
   url: ''
