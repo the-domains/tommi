@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-10-23T16:42:11.379Z'
-sourcePath: _posts/2016-10-23-startseiten-der-parteien-im-vergleich.md
-inFeed: true
-author: []
-via: {}
-dateModified: '2016-10-23T16:42:08.541Z'
 title: Startseiten der Parteien im Vergleich
+datePublished: '2016-10-23T17:05:38.339Z'
+dateModified: '2016-10-23T17:05:35.226Z'
 publisher: {}
+author: []
+inFeed: true
 description: ''
+via: {}
 starred: false
+sourcePath: _posts/2016-10-23-startseiten-der-parteien-im-vergleich.md
 _type: Blurb
 
 ---
