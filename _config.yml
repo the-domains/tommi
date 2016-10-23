@@ -1,0 +1,28 @@
+typography_spectrum: 0.4111566131615476
+content_rating:
+  adult: false
+color:
+  brandColors:
+    - '#332532'
+    - '#644D52'
+    - '#F77A52'
+    - '#FF974F'
+    - '#A49A87'
+  brandStrength: 0.11218917588048642
+  lightness: 0.4584516225811463
+  saturation: 0.6588492038147985
+  rhythmicContrast: 0.826897581416173
+github: true
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.5280501324852173
+author:
+  name: Tommi Enenkel
+  url: ''
+  email: tommi.enenkel@gmail.com
+logo: null
+name: Tommi
+title: Wahlkampftagebuch
+content: []
+description: ''
