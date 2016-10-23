@@ -1,5 +1,6 @@
-layout_spectrum: 0.5142039905536441
 typography_spectrum: 0.5317083039378175
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FFFFFF'
@@ -11,19 +12,18 @@ color:
   lightness: 0.7749961326012185
   saturation: 0.2912613010620422
   rhythmicContrast: 0.740844269854911
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.5142039905536441
 author:
   name: Tommi Enenkel
   url: ''
   email: tommi.enenkel@gmail.com
 logo: null
 name: Tommi
-title: ''
+title: Wahlkampftagebuch
 content: []
 description: ''
 purpose: []
