@@ -1,21 +1,27 @@
 ---
-datePublished: '2016-10-28T12:38:56.904Z'
+datePublished: '2016-10-28T12:41:05.147Z'
+sourcePath: _posts/2016-10-28-mini-abgeordnete-im-landtag-bayern.md
 inFeed: true
 isBasedOnUrl: >-
   https://www.bayern.landtag.de/aktuelles/veranstaltungen/gaeste-und-begegnungen/05072013-2-kinderparlament-im-landtag-175-mini-abgeordnete-erklaeren-welche-erwartungen-sie-an-die-politik-haben/
 author:
   - name: Rolf Poss
 via: {}
-dateModified: '2016-10-28T12:38:45.661Z'
-title: Mini-Abgeordnete im Landtag Bayern
+dateModified: '2016-10-28T12:41:04.559Z'
+title: Demokratie als Grundhaltung
 publisher: {}
-description: '#Wahlkampftagebuch - Tag 11 - Nachtrag'
+description: >-
+  Vor 100 Jahren ist Österreich mitten im 1. Weltkrieg. Schulkinder setzen sich
+  noch mit der Monarchie auseinander und stellen sich die Frage, warum die Welt
+  miteinander in Krieg gerät, weil irgendwo irgendein Thronfolger umgebracht
+  wurde.
 starred: false
-sourcePath: _posts/2016-10-28-mini-abgeordnete-im-landtag-bayern.md
 _type: MediaObject
 
 ---
-\#Wahlkampftagebuch - Tag 11 - Nachtrag
+# Demokratie als Grundhaltung
+
+## \#Wahlkampftagebuch - Tag 11 - Nachtrag
 
 Vor 100 Jahren ist Österreich mitten im 1\. Weltkrieg. Schulkinder setzen sich noch mit der Monarchie auseinander und stellen sich die Frage, warum die Welt miteinander in Krieg gerät, weil irgendwo irgendein Thronfolger umgebracht wurde.
 
