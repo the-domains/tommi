@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-10-28T12:41:05.147Z'
+datePublished: '2016-10-28T12:41:40.081Z'
 sourcePath: _posts/2016-10-28-mini-abgeordnete-im-landtag-bayern.md
 inFeed: true
 isBasedOnUrl: >-
@@ -7,7 +7,7 @@ isBasedOnUrl: >-
 author:
   - name: Rolf Poss
 via: {}
-dateModified: '2016-10-28T12:41:04.559Z'
+dateModified: '2016-10-28T12:41:39.476Z'
 title: Demokratie als Grundhaltung
 publisher: {}
 description: >-
@@ -21,7 +21,7 @@ _type: MediaObject
 ---
 # Demokratie als Grundhaltung
 
-## \#Wahlkampftagebuch - Tag 11 - Nachtrag
+## \#Wahlkampftagebuch - Tag 11
 
 Vor 100 Jahren ist Österreich mitten im 1\. Weltkrieg. Schulkinder setzen sich noch mit der Monarchie auseinander und stellen sich die Frage, warum die Welt miteinander in Krieg gerät, weil irgendwo irgendein Thronfolger umgebracht wurde.
 
