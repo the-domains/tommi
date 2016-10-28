@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-10-23T16:39:26.786Z'
+datePublished: '2016-10-28T12:41:17.152Z'
 sourcePath: _posts/2016-10-23-wahlkampftagebuch-tag-4.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-23T16:39:23.945Z'
+dateModified: '2016-10-28T12:41:16.622Z'
 title: '#Wahlkampftagebuch Tag 4'
 publisher: {}
 description: >-
   Wahlkampf ist wie eine Wettlauf zum Mars. Um unter den ersten zu sein, die
   wirklich am Mars lebend ankommen, musst Du eine mächtige Rakete bauen, die für
   jede Etappe der Reise mit all ihren Eigenheiten gerüstet ist.
-starred: true
+starred: false
 url: wahlkampftagebuch-tag-4/index.html
 _context: 'http://schema.org'
 _type: Article
