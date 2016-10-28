@@ -1,12 +1,11 @@
 ---
-datePublished: '2016-10-28T12:43:49.905Z'
+datePublished: '2016-10-28T13:33:54.694Z'
 sourcePath: _posts/2016-10-28-mini-abgeordnete-im-landtag-bayern.md
 inFeed: true
 hasPage: true
-author:
-  - name: Rolf Poss
+author: []
 via: {}
-dateModified: '2016-10-28T12:43:49.439Z'
+dateModified: '2016-10-28T13:33:54.220Z'
 title: Demokratie als Grundhaltung
 publisher: {}
 description: >-
