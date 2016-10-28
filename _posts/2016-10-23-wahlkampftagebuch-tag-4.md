@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-10-28T12:41:17.152Z'
+datePublished: '2016-10-28T12:43:19.189Z'
 sourcePath: _posts/2016-10-23-wahlkampftagebuch-tag-4.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-28T12:41:16.622Z'
-title: '#Wahlkampftagebuch Tag 4'
+dateModified: '2016-10-28T12:43:18.426Z'
+title: Vor dem Start
 publisher: {}
 description: >-
   Wahlkampf ist wie eine Wettlauf zum Mars. Um unter den ersten zu sein, die
@@ -20,7 +20,9 @@ _type: Article
 ---
 <article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b01edd9-f019-4db2-af48-29bc6918657a.jpg" /><p>Apollo 4 auf der Startrampe</p></article>
 
-# \#Wahlkampftagebuch Tag 4
+# Vor dem Start
+
+## \#Wahlkampftagebuch Tag 4
 
 Wahlkampf ist wie eine Wettlauf zum Mars. Um unter den ersten zu sein, die wirklich am Mars lebend ankommen, musst Du eine mächtige Rakete bauen, die für jede Etappe der Reise mit all ihren Eigenheiten gerüstet ist.
 
