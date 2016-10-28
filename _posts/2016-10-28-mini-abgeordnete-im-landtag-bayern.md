@@ -1,13 +1,12 @@
 ---
-datePublished: '2016-10-28T12:41:40.081Z'
+datePublished: '2016-10-28T12:43:49.905Z'
 sourcePath: _posts/2016-10-28-mini-abgeordnete-im-landtag-bayern.md
 inFeed: true
-isBasedOnUrl: >-
-  https://www.bayern.landtag.de/aktuelles/veranstaltungen/gaeste-und-begegnungen/05072013-2-kinderparlament-im-landtag-175-mini-abgeordnete-erklaeren-welche-erwartungen-sie-an-die-politik-haben/
+hasPage: true
 author:
   - name: Rolf Poss
 via: {}
-dateModified: '2016-10-28T12:41:39.476Z'
+dateModified: '2016-10-28T12:43:49.439Z'
 title: Demokratie als Grundhaltung
 publisher: {}
 description: >-
@@ -16,7 +15,8 @@ description: >-
   miteinander in Krieg gerät, weil irgendwo irgendein Thronfolger umgebracht
   wurde.
 starred: false
-_type: MediaObject
+url: demokratie-als-grundhaltung/index.html
+_type: Article
 
 ---
 # Demokratie als Grundhaltung
